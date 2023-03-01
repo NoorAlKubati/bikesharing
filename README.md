@@ -22,9 +22,17 @@ Digging deeper into this analysis, the trip duration was broken down by gender t
 
 ![alt text](https://github.com/NoorAlKubati/bikesharing/blob/main/Story%201%20(3).png)
 
-Having identified riders by gender, it is plausible to look at the days of the week and investigate how busy each day is and whether one dya is besier that the others. The analysis shown in the hearmap below reveals that Monday, Tuesday, Thursday, and Friday follow the same pattern and density, i.e. trips are higher in the morning and afternoon. This could be accrued to the fact that these are the times when people are going to work and/or school and coming back. Wednesday seem to demonstrate lower trips than the rest of the weekdays. Unlike weekdays, the weekeneds seem to be busiest during midday. This is understandable because that is the time pople are out abd about enjoying their weekends and running some errands.
+Having identified riders by gender, it is plausible to look at the days of the week and investigate how busy each day is and whether one dya is besier that the others. The analysis shown in the hearmap below reveals that Monday, Tuesday, Thursday, and Friday follow the same pattern and density, i.e. trips are higher in the morning and afternoon. This could be accrued to the fact that these are the times when people are going to work and/or school and coming back. Wednesday seem to demonstrate lower trips than the rest of the weekdays. Unlike weekdays, the weekeneds seem to be busiest during midday with Saturdays being a bit busier. This is understandable because that is the time pople are out abd about enjoying their weekends and running some errands.
 
 ![alt text](https://github.com/NoorAlKubati/bikesharing/blob/main/Story%201%20(4).png)
+
+Of course, when breaking that heatmap down by gender, we see that the majority of the trips were conducted by male riders.
+
+![alt text](https://github.com/NoorAlKubati/bikesharing/blob/main/Story%201%20(5).png)
+
+For a more comprehensive loook at the data, trips were analysed by week day, gender, and customer type. Interestingly, results were quite not what we thought. While male subscribers remained the dominant riders, female subscribers were more than male regular customers. This is interesting because the previous charts did not show that (or we did not look into it :D). 
+
+![alt text](https://github.com/NoorAlKubati/bikesharing/blob/main/Story%201%20(6).png)
 
 
 ## Results of the Analysis
